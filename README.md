@@ -1,16 +1,16 @@
 ### Hi there 👋
+> I'm Reza_Atom (Reza Parsian) C# and Php Programmer.
+> 
 
-<!--
-**RezaParsian/RezaParsian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Bonofun
+- 🌱 I’m currently learning **Laravel**
+- 🤔 I’m looking for help with Laravel
+- 💬 Ask me about Php and C#
+- 📫 How to reach me: RezaParsian76@gmail.com
+- 😄 Pronouns: Fat, Usefull
+- ⚡ Fun fact: Programming, Gaming, Watch Movie, Read Book
+- 🌐 My Website : https://rp76.ir
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![github stats](https://github-readme-stats.vercel.app/api?username=RezaParsian&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200) \
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RezaParsian&layout=compact&theme=chartreuse-dark" />

@@ -11,6 +11,7 @@
 - ⚡ Fun fact: Programming, Gaming, Watch Movie, Read Book
 - 🌐 My Website : <a href="https://rp76.ir">Rp76</a>
 
+<img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=RezaParsian&layout=compact" />
 
-![github stats](https://github-readme-stats.vercel.app/api?username=RezaParsian&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200) \
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RezaParsian&layout=compact&theme=chartreuse-dark" />
+![github stats](https://github-readme-stats.vercel.app/api?username=RezaParsian&show_icons=true&include_all_commits=true)
+  

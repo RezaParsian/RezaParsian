@@ -4,7 +4,7 @@
 
 - 👁️ [See my CoolSnippetsCode](https://github.com/RezaParsian/CoolSnippetsCode)
 - 🔭 I’m currently working on **[Bookero](https://bookero.ir/), [V8](https://github.com/v8enginephp/Core), [Rp76Blog](https://github.com/RezaParsian/Rp76Blog), [Modular_Laravel](https://github.com/RezaParsian/Modular_Laravel)**
-- 🌱 I’m currently learning **Vue**
+- 🌱 I’m currently learning **Tailwind Css**
 - 🤔 I’m looking for help with Vue
 - 💬 Ask me about Php, Laravel and V8engine
 - 📫 How to reach me: RezaParsian76@gmail.com

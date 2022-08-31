@@ -20,9 +20,9 @@
 
 ### Virgol Posts:
 <!-- VIRGOOL:START -->
+- [لاراول در لوله‌کشی Decorator](https://vrgl.ir/rO6ak)
 - [دیوار و مهندسی معکوس!](https://vrgl.ir/JSV7T)
 - [احراز هویت API در لاراول &lpar;ساده&rpar;](https://vrgl.ir/2Ygc2)
 - [صف های لاراولی](https://vrgl.ir/zsglT)
 - [اعتبار سنجی سفارشی در لاراول](https://vrgl.ir/TIDRf)
-- [۴ قانون اعتبارسنجی لاراول برای تصاویر و عکس ها](https://vrgl.ir/bGQAV)
 <!-- VIRGOOL:END -->

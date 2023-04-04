@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-> I'm Reza_Atom (Reza Parsian) Php Programmer work with Laravel.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=10000&color=F71856&vCenter=true&multiline=true&repeat=false&width=526&lines=I'm+Reza_Atom+(Reza+Parsian)+Php+Programmer+work+with+Laravel.)](https://git.io/typing-svg)
 
 - 👁️ [See my CoolSnippetsCode](https://github.com/RezaParsian/CoolSnippetsCode).
 - 🖼 [Some High Quality Image](https://rezaparsian.github.io/HdWallpaper/)

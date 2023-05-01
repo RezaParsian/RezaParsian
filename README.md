@@ -14,7 +14,3 @@
 - 😄 Pronouns: Fat, Usefull
 - ⚡ Fun fact: Programming, Gaming, Watch Movie, Read Book
 - 🌐 My Website : <a href="https://rp76.ir">Rp76</a>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezaparsian&hide=javascript,html,C%23,css,shaderlab&layout=compact" />
-
-![github stats](https://github-readme-stats.vercel.app/api?username=RezaParsian&show_icons=true&include_all_commits=true)

@@ -1,16 +1,36 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=10000&color=F71856&vCenter=true&multiline=true&repeat=false&width=526&lines=I'm+Reza_Atom+(Reza+Parsian)+Php+Programmer+work+with+Laravel.)](https://git.io/typing-svg)
+---
 
------------------
+#### 🛠 About Me:
+- 💻 I specialize in **PHP** and **Laravel** development.
+- 🛠 Skilled in **JavaScript**, **Vue.js**, **React**, **TypeScript**, **jQuery**, **Node.js**, and **Docker**.
+- 🌱 Currently learning **React** to enhance my frontend skills.
+- 🔭 Working on exciting projects like **[RobotLand](https://core.terminalads.com/)**, **[Rp76Blog](https://rp76.ir/)**, and **[SoundCloud Downloader](https://github.com/RezaParsian/SoundCloudDownloader)**.
+- 🎯 Passionate about creating efficient and reusable code snippets.
 
-- 👁️ [See my CoolSnippetsCode](https://github.com/RezaParsian/CoolSnippetsCode).
-- 🖼 [Some High Quality Image](https://rezaparsian.github.io/HdWallpaper/)
-- 🔭 I’m currently working on **[RobotLand](https://core.terminalads.com/), [Rp76Blog](https://github.com/RezaParsian/Rp76Blog), [Modular_Laravel](https://github.com/RezaParsian/Modular_Laravel)**.
-- 🌱 I’m currently learning **React**.
-- 🤔 I’m looking for help with React.
-- 💬 Ask me about Php, Laravel, Js, Vue and jQ.
-- 📫 How to reach me: [RezaParsian76@gmail.com](mailto:RezaParsian76@gmail.com)
-- 😄 Pronouns: Fat, Usefull
-- ⚡ Fun fact: Programming, Gaming, Watch Movie, Read Book
-- 🌐 My Website : <a href="https://rp76.ir">Rp76</a>
+---
+
+#### 🖇 Links:
+- 🧩 [Explore my Cool Snippets Code](https://github.com/RezaParsian/CoolSnippetsCode).
+- 🖼 [Check out my HD Wallpapers](https://rezaparsian.github.io/HdWallpaper/).
+- 🌐 Visit my personal website: [Rp76](https://rp76.ir).
+
+---
+
+#### 🤔 Looking For:
+- Collaborators for **React-based** and **Node.js** projects.
+- Feedback on my **Laravel** and **Full-Stack** projects.
+
+---
+
+#### 📫 Get In Touch:
+- 📧 Email: [RezaParsian76@gmail.com](mailto:RezaParsian76@gmail.com)
+- ✈️ Telegram: [Reza Parsian](https://t.me/Rp1376)
+
+---
+
+#### ⚡ Fun Facts:
+- 🎮 Gamer with over 8,000 hours in Dota 2.
+- 🎥 Movie enthusiast and avid book reader.
+- 💡 Always exploring
